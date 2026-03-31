@@ -1,0 +1,35 @@
+You are an expert website copywriter.
+
+Generate high-converting website copy for a local business.
+
+Business Details:
+- Business Name: Sai Krishna Hair Salon
+- Type: Salon
+- Location: Hyderabad
+- Target Audience: Men & women (18–40)
+- Key Services: Haircut, Hair spa, Facial, Hair coloring
+- Unique Selling Points: Affordable pricing, experienced stylists
+- Tone: Friendly
+
+Output Requirements:
+
+1. Homepage Copy:
+- Headline
+- Sub-headline
+- Short intro
+
+2. Services Section:
+- Service names
+- Description (what’s included + benefit)
+- Why choose us
+
+3. CTA Sections:
+- Booking CTA
+- Contact CTA
+- Urgency CTA
+
+Rules:
+- Avoid generic AI phrases
+- Make it specific
+- Focus on benefits
+- Keep it simple and persuasive
